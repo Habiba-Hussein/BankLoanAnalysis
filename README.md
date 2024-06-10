@@ -21,6 +21,8 @@
 
 [Glossary](#glossary)
 
+---
+
 ### Project Overview
 
 This is a bank loan analysis/Report over one year period using two dashboards in Excel with the aim of helping the bank monitor and assess their lending activities and performance. The report provides insights into key loan-related metrics and their changes over time and will help make data-driven decisions, track their loans portfolio's health, and identify trends that can inform our lending strategies.
@@ -107,7 +109,7 @@ Data Tutorials
 ### Glossary
 
 - BadLoan: Charged off loans
-- Goodloan: Loan whose status is currently Fully paid or Currently paying
+- Goodloan: Loan whose status is Fully paid or Currently paying
 - MoM:Month-over-month shows the change in the value of a specific metric as a percentage of the previous month's value.
 - Debt-to-Income ratio:is the ratio of their monthly debt payments to their monthly income i.e lower DTI indicates better repayment capacity
 - Month-to-date (MTD): A period that starts at the beginning of the current month and extends up to the present date
